@@ -29,9 +29,9 @@ https://aizpy.com/2023/03/30/chatglm-6b-lora/#预测
 ```
 --
 |--deepspeed--
-|			|--chatglm-lora-ds.ipynb  # Fitune ChatGLM-6B model using deepspeed
-|			|--ds_config_zero2.json   # config of deepspeed (zero2 strategy)
-|			|--ds_config_zero3.json   # config of deepspeed (zero3 strategy)
+|            |--chatglm-lora-ds.ipynb  # Fitune ChatGLM-6B model using deepspeed
+|            |--ds_config_zero2.json   # config of deepspeed (zero2 strategy)
+|            |--ds_config_zero3.json   # config of deepspeed (zero3 strategy)
 |--chatglm-lora-finetune.ipynb  # Finetune your own ChatGLM-6b model.
 |--chatglm-lora-inference.ipynb  # Read model paramaters and inference using own data.
 |--README.md
